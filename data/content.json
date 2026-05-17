@@ -1,47 +1,134 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Pinas Food House",
+  "tagline": "Filipino comfort food on W Avenue 40, Glassell Park.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLASSELL PARK · 7 AM TO 7 PM · OPEN EVERY DAY",
+    "heading": "Filipino comfort, made fresh daily.",
+    "subheading": "A family-run Filipino kitchen on West Avenue 40 in Glassell Park. Hand-cooked silogs, kare-kare, sinigang, lumpia, and the family-size trays the neighborhood orders for every birthday. Open seven days, seven to seven.",
+    "ctaText": "Call for an order",
+    "ctaLink": "tel:3235473314",
+    "image": "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The kitchen",
+    "heading": "Lola's recipes. Three generations.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Piñas Food House brought lola's Filipino recipes from Cebu to West Avenue 40 in Glassell Park. Three generations in the kitchen, family-style portions, and a service that runs straight through from seven in the morning to seven at night.",
+      "We do classic silogs for breakfast, ulam plates and noodles for lunch, family-size trays for dinner. Kare-kare, sinigang, adobo, lechon kawali, lumpia, pancit. Order ahead for parties or come in any day.",
+      "Open seven days a week. Cash or card. The line moves fast — the kitchen is in the back, the friendliest welcome is at the counter."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Tapsilog",
+      "description": "Sweet-cured beef tapa, garlic fried rice, and a sunny-side egg. The classic Filipino breakfast.",
+      "price": "$12"
+    },
+    {
+      "title": "Kare-Kare",
+      "description": "Oxtail and tripe stewed in rich peanut sauce with bok choy, eggplant, and shrimp paste on the side.",
+      "price": "$18"
+    },
+    {
+      "title": "Sinigang na Baboy",
+      "description": "Sour tamarind soup with pork ribs, kangkong, and white radish. Hot rice on the side.",
+      "price": "$15"
+    },
+    {
+      "title": "Lumpia Shanghai",
+      "description": "Hand-rolled Filipino spring rolls, fried to order, served with sweet-and-sour. Twelve pieces.",
+      "price": "$11"
+    },
+    {
+      "title": "Lechon Kawali Plate",
+      "description": "Crispy pork belly over rice with atchara and house liver-sauce on the side. Sunday favorite.",
+      "price": "$16"
+    },
+    {
+      "title": "Pancit Bihon Tray",
+      "description": "Family-size tray of stir-fried rice noodles with chicken, shrimp, and vegetables. Feeds six.",
+      "price": "$45"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Mariel S.",
+      "rating": 5,
+      "context": "Three-year regular",
+      "text": "Piñas is the only Filipino kitchen in LA that has had me coming back twice a week for three years. The kare-kare is exactly like the version my lola used to make in Cebu. Family flavor, family prices."
+    },
+    {
+      "name": "John R.",
+      "rating": 4,
+      "context": "Birthday tray",
+      "text": "Ordered the pancit tray and lumpia for sixty for my daughter's first birthday and the whole party was talking about it the next day. Two hundred dollars fed sixty people perfectly."
+    },
+    {
+      "name": "Yolanda C.",
+      "rating": 5,
+      "context": "First-time customer",
+      "text": "Walked in for a tapsilog breakfast and was eating the best fried rice of my life in fifteen minutes. The owner came out to make sure my coffee was right. Real shop."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(323) 547-3314",
+    "email": "hello@pinasfoodhouse.com",
+    "address": "3756 W Ave 40 L, Glassell Park, CA 90065",
+    "mapEmbedQuery": "Pinas Food House, 3756 W Ave 40, Glassell Park, CA 90065",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "7:00 AM – 7:00 PM",
+      "Tuesday": "7:00 AM – 7:00 PM",
+      "Wednesday": "7:00 AM – 7:00 PM",
+      "Thursday": "7:00 AM – 7:00 PM",
+      "Friday": "7:00 AM – 7:00 PM",
+      "Saturday": "7:00 AM – 7:00 PM",
+      "Sunday": "7:00 AM – 7:00 PM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Pinas Food House — Filipino kitchen on W Avenue 40, Glassell Park",
+    "description": "A family-run Filipino kitchen on West Avenue 40 in Glassell Park. Tapsilog, kare-kare, sinigang, lumpia, party trays. Open seven days, 7 to 7.",
+    "keywords": [
+      "Filipino food Glassell Park",
+      "Filipino kitchen 90065",
+      "tapsilog Los Angeles",
+      "Pinas Food House"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#7C2D12",
+    "accentColor": "#D97706",
+    "fontFamily": "modak-inter-jetbrainsmono"
+  },
+  "designSystem": {
+    "searchQuery": "filipino comfort kitchen walnut saffron palm green cream tropical playful chunky display",
+    "styleName": "Filipino Comfort (Modak + walnut + saffron + palm)",
+    "pattern": "Hero + Cards + CTA · tropical chunky",
+    "palette": {
+      "primary": "#7C2D12",
+      "secondary": "#431407",
+      "cta": "#D97706",
+      "accent": "#166534",
+      "background": "#FEF3C7",
+      "text": "#1C1917",
+      "muted": "#78716C",
+      "border": "#7C2D12",
+      "surface": "#7C2D12"
+    },
+    "typography": {
+      "heading": "Modak",
+      "body": "Inter",
+      "label": "JetBrains Mono",
+      "mood": "Filipino comfort kitchen, lola's recipes, walnut + saffron + palm-green, Modak bubbly chunky display"
+    },
+    "moves": [
+      "Modak chunky bubbly Hindi-origin display — first Modak in the build",
+      "Walnut brown + saffron + palm green tricolor — Filipino tropical warm",
+      "Leaf-pattern radial dots in hero — tropical leaves background",
+      "Twin rotated circle badges 'SARAP' + '7AM' floating off photo",
+      "Walnut menu section with saffron numerals — palm-green review section",
+      "Saffron CTA visit section with 'Halika na!' Tagalog greeting"
+    ]
   }
 }
